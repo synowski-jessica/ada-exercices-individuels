@@ -1,0 +1,70 @@
+#morse-output {
+    width: 450px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: deeppink;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 700px;
+    top:0
+    
+  
+}
+
+#message{
+    width: 450px;
+    height: 150px;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: yellowgreen;
+    color: white;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 50px;
+    top: 150px;
+    
+   
+}
+#latin-to-morse{
+    position: relative;
+    left: 70px;
+    top: 140px
+}
+
+#message-morse{
+    width: 450px;
+    height: 150px;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: yellowgreen;
+    color: white;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 50px;
+    top: 150px;
+    
+   
+}
+
+#latin-output {
+    width: 450px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: deeppink;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 700px;
+    top:0
+}
+
+#morse-to-latin{
+    position: relative;
+    left: 70px;
+    top: 140px
+}
